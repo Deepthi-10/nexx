@@ -1,0 +1,9 @@
+{
+    
+    "Port": "8777",
+
+    "DB_Uri": "root:123456@tcp(localhost:3306)/m1?charset=utf8mb4&parseTime=True&loc=Local",
+    "DB_ss_Uri": "root:123456@tcp(localhost:3306)/m2?charset=utf8mb4&parseTime=True&loc=Local",
+    "DB_qa_Uri": "root:123456@tcp(localhost:3306)/m3?charset=utf8mb4&parseTime=True&loc=Local"
+
+}
